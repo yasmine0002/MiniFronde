@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="grapic">
+		<Project filename="Start.cbp" />
+		<Project filename="tuto1_Simple.cbp" />
+		<Project filename="tuto2_FirstLoop.cbp" />
+		<Project filename="tuto3_Drawing.cbp" />
+		<Project filename="tuto4_Keyboard.cbp" />
+		<Project filename="tuto5_Mouse.cbp" />
+		<Project filename="tuto6_Menu.cbp" />
+		<Project filename="tuto7_Animation.cbp" />
+		<Project filename="tuto8_Plot.cbp" />
+		<Project filename="tuto9_Image.cbp" />
+		<Project filename="tuto10_Demo.cbp" />
+		<Project filename="demo_Minesweeper.cbp" />
+		<Project filename="demo_Tetris.cbp" />
+		<Project filename="demo_Checkers.cbp" />
+		<Project filename="demo_Pacman.cbp" />
+		<Project filename="LIFAP1_TP3.cbp" />
+		<Project filename="bla.cbp" />
+		<Project filename="basket.cbp" />
+		<Project filename="../../../../Desktop/S10GRAPIC/bla.cbp" />
+		<Project filename="D:/yasmine/MiniProjetATRAOUI/MiniProjetATRAOUI.cbp" />
+		<Project filename="D:/yasmine/MiniProjetAtraoui2/MiniProjetAtraoui2.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
